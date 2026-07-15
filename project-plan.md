@@ -2,8 +2,9 @@
 
 **Goal:** Determine whether real-world GenAI adoption matches the level implied by media/advertising, and whether adoption correlates with GDP.
 
-**Attribution:** This project was completed as part of Anthropic's AI Fluency course on Skilljar. The plan below reflects how work was divided between myself and Claude throughout the project.
+**Info:** This project was completed as part of Anthropic's AI Fluency course on Skilljar. The plan below reflects how work was divided between myself and Claude throughout the project. This markdown file was drafted after conversing with Claude and specifying goals and what success looks like for this project.
 
+**Dataset Attribution:** [Our World in Data — Generative AI vs. GDP per Capita](https://ourworldindata.org/) (CC BY)
 ---
 
 ## Task 1: Data Acquisition & Initial Exploration
@@ -74,7 +75,7 @@
 
 ## Task 6: README & Infographic
 
-**Skills/knowledge needed:** Structuring a repo so a stranger (recruiter, hiring manager) can understand the project in under a minute.
+**Skills/knowledge needed:** Structuring a repo so a stranger can understand the project in under a minute.
 
 | Human Responsibilities | AI Responsibilities |
 |---|---|
