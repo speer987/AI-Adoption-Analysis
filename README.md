@@ -4,11 +4,11 @@
 
 **Source:** [LinkedIn Post](https://www.linkedin.com/posts/abhatnagar19_ai-ai-ai-share-7431528567412449280-QaS7/)
 
-I see this infographic floating around on the internet a lot, so I don't know where the original is from. The LinkedIn post I've linked above isn't the first post I've seen it on, but the first post I came across showing this is what made me interested in this analysis.
+I see this dot plot floating around on the internet a lot, so I don't know where the original is from. The LinkedIn post I've linked above isn't the first post I've seen it on, but the first post I came across showing this is what made me interested in this analysis.
 
 ## Why I built this
 
-I got interested in this topic after coming across a LinkedIn post citing a GenAI adoption statistic. It was intriguing, since I'd assumed AI usage was a truly global phenomenon, but it made me wonder whether adoption was actually concentrated in certain countries. The infographic in that post didn't break the number down by country, so there was no way to tell from that post alone.
+I got interested in this topic after coming across a LinkedIn post citing a GenAI adoption statistic. It was intriguing, since I'd assumed AI usage was a truly global phenomenon, but it made me wonder whether adoption was actually concentrated in certain countries. The dot plot image in that post didn't break the number down by country, so there was no way to tell from that post alone.
 
 I was also curious whether GenAI adoption is really as widespread as it seems, given how much companies are currently investing in artificial intelligence. I wanted to know if the reported adoption numbers were representative of the whole world, or if the hype was exaggerated relative to what a typical country actually looks like. That question is what led me to this analysis.
 
@@ -70,7 +70,7 @@ This project was completed as part of Anthropic's AI Fluency course on Skilljar.
 │   └── original
 │          └── generative-ai-vs-gdp-per-capita.csv
 └── charts/
-    ├── infographic.png
+    ├── dot-plot.jpg
     ├── q1_gdp_vs_adoption_by_region.png
     ├── q3_gdp_adoption_outliers.png
     ├── q4_median_vs_top10.png

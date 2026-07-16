@@ -2,12 +2,12 @@
 
 **AI system used:** Claude (Anthropic), chosen because it is the AI system used throughout Anthropic's AI Fluency course, for which this project was built.
 
-**How AI contributed:** Claude assisted substantially throughout this project, including: writing and testing the data cleaning code; writing and verifying the analysis code for all five research questions; generating and iterating on chart designs, including the infographic; drafting first-pass written explanations for each finding, which I then revised into my own words; and drafting the structure of this README and the project planning documents.
+**How AI contributed:** Claude assisted substantially throughout this project, including: writing and testing the data cleaning code; writing and verifying the analysis code for all five research questions; generating and iterating on chart designs; drafting first-pass written explanations for each finding, which I then revised into my own words; and drafting the structure of this README and the project planning documents.
 
 **Specific instances where I depended on and incorporated Claude's output:**
 - Cleaning code that removed a non-country "World" aggregate row and standardized column names
 - Analysis code for all five research questions (GDP-adoption correlation, year-over-year change, GDP/adoption rank-gap outliers, median-vs-top-10 comparison, and regional breakdown)
-- All chart-generation code, including the region-colored scatter plot, the outlier bar chart, the distribution chart, and the final infographic layout
+- All chart-generation code, including the region-colored scatter plot, the outlier bar chart, the distribution chart
 - First-draft explanations under each chart, which Claude wrote based on the verified results, and which I then reviewed, corrected, and rewrote in my own voice
 - Structural drafts of this README, the `project-plan.md`, and the `progress-notes.md` files
 

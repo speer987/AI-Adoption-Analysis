@@ -89,6 +89,6 @@ Running log of decisions and outputs at each stage of the project, following the
 
 
 
-### Task 6: README & Infographic — ⬜ Not started
+### Task 6: README & Dot Plot Picture — ✅ Complete
 
-### Task 7: Publishing to GitHub — ⬜ Not started
+### Task 7: Publishing to GitHub — ✅ Complete

@@ -73,7 +73,7 @@
 
 ---
 
-## Task 6: README & Infographic
+## Task 6: README & Infographic or Dot Plot Picture
 
 **Skills/knowledge needed:** Structuring a repo so a stranger (recruiter, hiring manager) can understand the project in under a minute.
 
