@@ -4,7 +4,7 @@
 
 **Source:** [LinkedIn Post](https://www.linkedin.com/posts/abhatnagar19_ai-ai-ai-share-7431528567412449280-QaS7/)
 
-I see this infographic floating around on the internet a lot, so I don't know where the original is from. The LinkedIn post I've linked above isn't the first post I've seen it on, but that's what made me interested in this analysis.
+I see this infographic floating around on the internet a lot, so I don't know where the original is from. The LinkedIn post I've linked above isn't the first post I've seen it on, but the first post I came across showing this is what made me interested in this analysis.
 
 ## Why I built this
 
