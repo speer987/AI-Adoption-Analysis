@@ -1,6 +1,6 @@
 # GenAI Adoption vs. GDP: Is the Hype Real?
 
-![Dot Plot](charts/dot-plot.png)
+![Dot Plot](charts/dot-plot.jpg)
 
 **Source:** [LinkedIn Post](https://www.linkedin.com/posts/abhatnagar19_ai-ai-ai-share-7431528567412449280-QaS7/)
 
