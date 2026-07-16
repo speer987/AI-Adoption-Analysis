@@ -4,7 +4,12 @@
 
 **Info:** This project was completed as part of Anthropic's AI Fluency course on Skilljar. The plan below reflects how work was divided between myself and Claude throughout the project. This markdown file was drafted after conversing with Claude and specifying goals and what success looks like for this project.
 
-**Dataset Attribution:** [Our World in Data: Generative AI vs. GDP per Capita](https://ourworldindata.org/) (CC BY)
+**Dataset Attribution:** 
+
+[Our World in Data: Generative AI vs. GDP per Capita](https://ourworldindata.org/) (CC BY)
+
+[Microsoft (2026)Eurostat](https://github.com/microsoft/ai-diffusion-report), [OECD, IMF, and World Bank (2026)](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.KD) Our World in Data – with minor processing by Our World in Data
+
 ---
 
 ## Task 1: Data Acquisition & Initial Exploration

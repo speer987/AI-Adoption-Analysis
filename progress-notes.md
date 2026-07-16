@@ -6,7 +6,12 @@ Running log of decisions and outputs at each stage of the project, following the
 
 ### Task 1: Data Acquisition & Initial Exploration — ✅ Complete
 
-**Dataset:** [Generative AI Adoption vs. GDP per Capita](https://ourworldindata.org/) — Our World in Data (CC BY)
+**Dataset:** 
+
+[Generative AI Adoption vs. GDP per Capita](https://ourworldindata.org/) — Our World in Data (CC BY)
+
+[Microsoft (2026)Eurostat](https://github.com/microsoft/ai-diffusion-report), [OECD, IMF, and World Bank (2026)](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.KD) Our World in Data – with minor processing by Our World in Data
+
 
 **AI-reported structure:**
 - 444 rows, 6 columns, 148 unique countries
