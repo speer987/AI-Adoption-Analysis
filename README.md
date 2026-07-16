@@ -24,11 +24,11 @@ Honestly, Discernment was the skill I found hardest to practice consistently. I 
 
 Is real-world Generative AI adoption really as widespread as advertising and media coverage suggest, and how does it relate to a country's GDP per capita?
 
-## Data source
+## Data Source
 
 [Our World in Data: Generative AI vs. GDP per Capita](https://ourworldindata.org/) — CC BY license. Covers 147 countries across 3 time points (June 2025, December 2025, March 2026).
 
-Microsoft (2026)Eurostat, OECD, IMF, and World Bank (2026) Our World in Data – with minor processing by Our World in Data
+[Microsoft (2026)Eurostat](https://github.com/microsoft/ai-diffusion-report), [OECD, IMF, and World Bank (2026)](https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.KD) Our World in Data – with minor processing by Our World in Data
 
 ## Key findings
 
