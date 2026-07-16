@@ -1,27 +1,24 @@
 # GenAI Adoption vs. GDP: Is the Hype Real?
 
+![Dot Plot](charts/dot-plot.png)
+
+**Source:** [LinkedIn Post](https://www.linkedin.com/posts/abhatnagar19_ai-ai-ai-share-7431528567412449280-QaS7/)
+
+I see this infographic floating around on the internet a lot, so I don't know where the original is from. The LinkedIn post I've linked above isn't the first post I've seen it on, but that's what made me interested in this analysis.
+
 ## Why I built this
 
-*(Write here: your own motivation for this project. E.g., why the "is AI adoption really as widespread as advertising suggests" question caught your interest, and what you were hoping to find out.)*
+I got interested in this topic after coming across a LinkedIn post citing a GenAI adoption statistic. It was intriguing, since I'd assumed AI usage was a truly global phenomenon, but it made me wonder whether adoption was actually concentrated in certain countries. The infographic in that post didn't break the number down by country, so there was no way to tell from that post alone.
 
-## Diligence Statement
-Creation Diligence:
+I was also curious whether GenAI adoption is really as widespread as it seems, given how much companies are currently investing in artificial intelligence. I wanted to know if the reported adoption numbers were representative of the whole world, or if the hype was exaggerated relative to what a typical country actually looks like. That question is what led me to this analysis.
 
-    Which AI systems did you choose to work with and why?
-    What data or information did you share with the AI?
-    Were there any privacy, security, or ethical considerations in your choices?
+## About this project: practicing the 4 Ds of AI Fluency
 
-Transparency Diligence:
+This project was built as part of Anthropic's AI Fluency course, which frames effective AI collaboration around four skills: **Delegation** (deciding what to hand off to AI vs. do myself), **Description** (communicating tasks clearly), **Discernment** (critically evaluating AI output), and **Diligence** (verifying work and disclosing AI involvement responsibly).
 
-    Who is the audience for your project output?
-    What expectations might they have regarding AI disclosure?
-    How specifically did AI contribute to different aspects of your work?
+Honestly, Discernment was the skill I found hardest to practice consistently. I verified some things carefully, like independently checking the dataset's row count via the command line and running the full analysis notebook myself, but I didn't rigorously challenge or re-derive every statistic Claude produced. I'm naming that directly rather than glossing over it: this project was a learning opportunity to practice these four skills, not a demonstration that I'd already mastered them. Delegation and Diligence came more naturally to me here, and Discernment is the skill I most want to keep developing. Honing my discernment skills would definitely be one of the next steps in this project.
 
-Deployment Diligence:
-
-    What steps did you take to verify the accuracy and appropriateness of AI contributions?
-    How did you ensure the final output meets your standards and requirements?
-    What responsibility are you taking for the final product?
+**Short version of my AI diligence statement:** I collaborated with Claude (Anthropic) throughout this project, for data cleaning, analysis code, chart generation, and first-draft explanations, which I then reviewed and rewrote in my own words. I take full responsibility for the accuracy and presentation of the final output. See [`ai-diligence-statement.md`](ai-diligence-statement.md) for the complete statement, including what I did and didn't independently verify.
 
 ## The question
 
@@ -30,6 +27,8 @@ Is real-world Generative AI adoption really as widespread as advertising and med
 ## Data source
 
 [Our World in Data: Generative AI vs. GDP per Capita](https://ourworldindata.org/) — CC BY license. Covers 147 countries across 3 time points (June 2025, December 2025, March 2026).
+
+Microsoft (2026)Eurostat, OECD, IMF, and World Bank (2026) Our World in Data – with minor processing by Our World in Data
 
 ## Key findings
 
@@ -64,8 +63,12 @@ This project was completed as part of Anthropic's AI Fluency course on Skilljar.
 ├── analysis.ipynb
 ├── project-plan.md
 ├── progress-notes.md
+├── ai-diligence-statement.md
 ├── data/
-│   └── genai_adoption_clean_full.csv
+│   └── cleaned
+│          └── genai_adoption_clean_full.csv
+│   └── original
+│          └── generative-ai-vs-gdp-per-capita.csv
 └── charts/
     ├── infographic.png
     ├── q1_gdp_vs_adoption_by_region.png
