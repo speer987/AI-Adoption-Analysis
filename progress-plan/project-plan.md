@@ -4,7 +4,7 @@
 
 **Info:** This project was completed as part of Anthropic's AI Fluency course on Skilljar. The plan below reflects how work was divided between myself and Claude throughout the project. This markdown file was drafted after conversing with Claude and specifying goals and what success looks like for this project.
 
-**Dataset Attribution:** [Our World in Data — Generative AI vs. GDP per Capita](https://ourworldindata.org/) (CC BY)
+**Dataset Attribution:** [Our World in Data: Generative AI vs. GDP per Capita](https://ourworldindata.org/) (CC BY)
 ---
 
 ## Task 1: Data Acquisition & Initial Exploration
@@ -66,23 +66,23 @@
 
 | Human Responsibilities | AI Responsibilities |
 |---|---|
-| Write the final explanation in my own voice | Draft a first-pass explanation to react to and revise |
-| Ensure the takeaway is honest about limitations (e.g., "change" not "trend," given only 3 data points) | Suggest phrasing that avoids overstating statistical significance |
+| Reviewed each first-draft explanation and rewrote it in my own voice, incorporating Claude's revisions and detail corrections | Wrote the first-draft explanation for each finding, to react to and revise |
+| Ensured the takeaway is honest about limitations (e.g., "change" not "trend," given only 3 data points) | Suggested phrasing that avoids overstating statistical significance |
 
-**Best collaboration point:** AI drafts, I correct tone/accuracy/emphasis — ensures the takeaway reflects my actual judgment, not a generic summary.
+**Best collaboration point:** AI drafts, I correct tone/accuracy/emphasis — the final interpretations reflect a genuine combination of both of our work, not a solo effort by either of us.
 
 ---
 
 ## Task 6: README & Infographic
 
-**Skills/knowledge needed:** Structuring a repo so a stranger can understand the project in under a minute.
+**Skills/knowledge needed:** Structuring a repo so a stranger (recruiter, hiring manager) can understand the project in under a minute.
 
 | Human Responsibilities | AI Responsibilities |
 |---|---|
-| Write the project's motivation/framing — why I cared about this question | Draft README structure/sections |
-| Decide what stays, what's cut, and the final tone | Help design a simple infographic layout |
+| Provided the project's motivation and framing — why I cared about this question | Drafted README structure/sections and polished overall tone |
+| Decided what stays and what's cut | Helped design a simple infographic layout |
 
-**Best collaboration point:** AI proposes structure, I decide what stays, what's cut, and what the framing/tone should be.
+**Best collaboration point:** I provide the project's motivation and framing, Claude polishes the structure and tone, and I decide what stays and what's cut.
 
 ---
 
